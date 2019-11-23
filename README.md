@@ -3,6 +3,8 @@
 1.0.6 修复版  
 ====   
 根据[hang333大佬](https://github.com/donwa/goindex/issues/52)和[shyim大佬](https://github.com/donwa/goindex/issues/30)的代码，来修复特殊符号exception和1000文件以上不显示的问题
+由于hang333大佬修改的app.js不带有function项会报错，因此只能分支到我仓库里修改了
+此外基于http://raw.githack.com/ 外链github的app.js，不知道有没有流量限制，建议大家也Fork一下并修改自己的githack外链
 
 GoIndex  
 ====  
